@@ -92,8 +92,10 @@ endmodule
 
 
 **RTL Schematic**
+
 HALF ADDER
 ![ha](https://github.com/user-attachments/assets/19a501a8-fa68-4f39-b2c9-323094c65d96)
+
 HALF SUBTRACTOR
 ![hs](https://github.com/user-attachments/assets/2e0115d3-826a-430c-9bf3-f2c773683b47)
 
