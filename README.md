@@ -98,8 +98,10 @@ HALF SUBTRACTOR
 ![hs](https://github.com/user-attachments/assets/2e0115d3-826a-430c-9bf3-f2c773683b47)
 
 **Output/TIMING Waveform**
+
 HALF ADDER
 ![image](https://github.com/user-attachments/assets/130a2d2e-e260-4311-a28d-78d1b0c9b248)
+
 HALF SUBTRACTOR
 ![image](https://github.com/user-attachments/assets/1fd2f02d-3023-43d2-9624-f00033923f9e)
 
